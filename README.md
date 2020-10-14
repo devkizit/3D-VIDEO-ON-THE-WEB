@@ -1,6 +1,6 @@
-# 3D-VIDEO-ON-THE-WEB
+## 3D-VIDEO-ON-THE-WEB
 
-##INSPIRATION:ONLINE TUTORIALS ON YOUTUBE
+## INSPIRATION: Youtube (Online tutorials)
 
 ## Mockups
 <p align-items= "center">
